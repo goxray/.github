@@ -1,4 +1,4 @@
-## Go XRay VPN Client 🌈
+## GoXRay VPN Client 🌈
 
 ![Static Badge](https://img.shields.io/badge/OS-macOS%20%7C%20Linux-blue?style=flat&logo=linux&logoColor=white&logoSize=auto&color=blue)
 ![Static Badge](https://img.shields.io/badge/Go-1.21+-00ADD8?style=flat&logo=go&logoColor=white)
@@ -16,5 +16,6 @@ Please visit https://xtls.github.io/en for more info.
 
 ### Projects
 
-- CLI VPN Client: https://github.com/goxray/tun
-- Core package (routing, TUN interface, proxy tunnel): https://github.com/goxray/core
+- CLI VPN client (macOS/Linux): https://github.com/goxray/tun
+- Desktop client (macOS): https://github.com/goxray/desktop 
+- Core package (routing, tun, proxy): https://github.com/goxray/core
