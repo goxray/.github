@@ -16,6 +16,6 @@ Please visit https://xtls.github.io/en for more info.
 
 ### Projects
 
-- CLI VPN client (macOS/Linux): https://github.com/goxray/tun
 - Desktop client (macOS): https://github.com/goxray/desktop 
+- CLI VPN client (macOS/Linux): https://github.com/goxray/tun
 - Core package (routing, tun, proxy): https://github.com/goxray/core
