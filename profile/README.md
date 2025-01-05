@@ -9,13 +9,13 @@ This project brings fully functional [XRay](https://github.com/XTLS/Xray-core) V
 Please visit https://xtls.github.io/en for more info.
 
 #### Tested and supported on:
-- macOS (tested on Sequoia 15.1.1)
-- Linux (tested on Ubuntu 24.10)
+- macOS (tested on Sequoia 15.1.1 M3)
+- Linux (tested on Ubuntu 24.10 ARM)
 
 > Feel free to test this on your system and let me know in the issues :)
 
 ### Projects
 
-- Desktop client (macOS): https://github.com/goxray/desktop 
-- CLI VPN client (macOS/Linux): https://github.com/goxray/tun
+- Desktop client: https://github.com/goxray/desktop 
+- CLI VPN client: https://github.com/goxray/tun
 - Core package (routing, tun, proxy): https://github.com/goxray/core
