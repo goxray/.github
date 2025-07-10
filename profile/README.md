@@ -1,4 +1,4 @@
-## GoXRay VPN Client 🌈 ![Static Badge](https://img.shields.io/badge/featured_on_apps.fyne.io-00ADD8?style=flat&logo=graphite&logoColor=lightblue&color=blue&link=https%3A%2F%2Fapps.fyne.io%2Fapps%2Fcom.github.goxray.client.app.html)
+## GoXRay VPN Client 🌈 [![Static Badge](https://img.shields.io/badge/featured_on_apps.fyne.io-00ADD8?style=flat&logo=graphite&logoColor=lightblue&color=blue&link=https%3A%2F%2Fapps.fyne.io%2Fapps%2Fcom.github.goxray.client.app.html)](https://apps.fyne.io/apps/com.github.goxray.client.app.html)
 
 ![Static Badge](https://img.shields.io/badge/OS-macOS%20%7C%20Linux-blue?style=flat&logo=linux&logoColor=white&logoSize=auto&color=blue)
 ![Static Badge](https://img.shields.io/badge/Go-1.21+-00ADD8?style=flat&logo=go&logoColor=white)
